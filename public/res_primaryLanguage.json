@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Jawad Asghar. With over three years of experience in front-end development, a solid foundation in JavaScript and React.js, and a proven track record of creating visually appealing and user-friendly web applications. I am proficient in building responsive and interactive user interfaces using modern web technologies. My experience in collaborating with cross-functional teams, including designers and backend developers, has allowed me to deliver seamless end-to-end solutions that meet both technical and business requirements.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -21,8 +21,8 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
             "class": "devicon-typescript-plain",
@@ -65,7 +65,7 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
+            "class": "devicon-react-original",
             "name": "Angular"
           },
           {
@@ -81,37 +81,49 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Blutech Consulting Pvt. Ltd.",
+        "title": "Associate Software Engineer",
+        "years": "10.2021 - 08-2023",
         "mainTech": [
-          "Angular 8/9/10"
+          "React JS"
         ],
         "technologies": [
           "REST API",
+          "Redux",
           "RxJS",
           "JavaScript",
           "Bootstrap",
           "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "React Material"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Blutech Consulting Pvt. Ltd.",
+        "title": "Junior Software Engineer",
+        "years": "06.2020 - 09.2021",
         "mainTech": [
-          "Angular 7/8"
+          "React JS"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+          "HTML5",
+          "CSS3",
+          "Bootstrap",
           "JavaScript",
-          "DHTMLX Gantt"
+          "MYSQL"
+        ]
+      },
+      {
+        "company": "Bee Social Pvt. Ltd.",
+        "title": "JavaScript Developer",
+        "years": "03.2020 - 05.2021",
+        "mainTech": [
+          "JavaScript"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "JavaScript"
         ]
       }
     ]

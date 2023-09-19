@@ -1,16 +1,16 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Jawad Asghar Portfolio",
+      "titles": [ "Front-end Developer", "Associate Software Engineer", "UI Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/javvadasghar",
           "class": "fab fa-github"
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
+          "url": "https://www.instagram.com/javvadasghar",
           "class": "fab fa-instagram"
         }
       ],
@@ -27,6 +27,11 @@
           "name": "CSS 3",
           "class": "devicon-css3-plain",
           "level": "95"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "80"
         },
         {
           "name": "Angular",
@@ -54,13 +59,13 @@
           "level": "85"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
-        },
-        {
           "name": "MySql",
           "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
           "level": "60"
         }
       ]
