@@ -9,7 +9,7 @@
 
 <h3>:eye_speech_bubble: Live demo</h3>
 
-Check live demonstration <a href="https://dorota1997.github.io/react-frontend-dev-portfolio/"><strong>here</strong></a>
+Check live demonstration <a href="https://jawad-asghar.vercel.app/"><strong>here</strong></a>
 
 <h3>:books: Getting started</h3>
 
