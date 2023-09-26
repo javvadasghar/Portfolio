@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Jawad Asghar Portfolio",
-      "titles": [ "Front-end Developer", "Associate Software Engineer", "UI Developer" ],
+      "titles": [ "Front-end Developer", "Software Engineer", "UI Developer" ],
       "social": [
         {
           "name": "github",
@@ -14,7 +14,7 @@
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "j8.jpg"
     },
     "skills": {
       "icons": [

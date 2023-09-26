@@ -1,14 +1,5 @@
-<img width="80%" align="center" src="https://github.com/Dorota1997/react-frontend-dev-portfolio/blob/images/images/portfolio_mockup.png" alt="portfolio template mockup" /> <br/>
-<img height="350px" align="right" src="https://github.com/Dorota1997/react-frontend-dev-portfolio/blob/images/images/mobile-demo.gif" alt="portfolio mobile demo gif"/>
-
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/react.svg" height="50" alt="react icon"/>
 <h2>Portfolio Template</h2>
-
-<pre>
-⭐ Easy to adapt and deploy portfolio project covering most important 
-sections(about, exp, skills, projects), inspired with solutions found 
-at GitHub. Check live preview(link below).
-</pre>
 
 <strong>:crown: advantages</strong>
 
@@ -19,8 +10,6 @@ at GitHub. Check live preview(link below).
 <h3>:eye_speech_bubble: Live demo</h3>
 
 Check live demonstration <a href="https://dorota1997.github.io/react-frontend-dev-portfolio/"><strong>here</strong></a>
-
-<img width="100%" src="https://github.com/Dorota1997/react-frontend-dev-portfolio/blob/images/images/react_portfolio_about.png" alt="react frontend dev portfolio preview"/>
 
 <h3>:books: Getting started</h3>
 
@@ -43,15 +32,3 @@ Check live demonstration <a href="https://dorota1997.github.io/react-frontend-de
 4. `npm start` project and customize it.
 5. Deploy on github-pages using `npm run deploy` command.
 
-<pre>
-⚠️ Note that:
-- if you want to have portfolio on different repository than `{username}.github.io`, 
-set `homepage` in `package.json` to `https://{username}.github.io/{repository-name}/` 
-before deploying portfolio.
-- if you want to run it locally with <strong>npm run start</strong>, make sure that you have edited 
-homepage property or json data won't load.
-</pre>
-
-Images used in portfolio template come from Pixabay, references:
-
-<a href="https://pixabay.com/photos/people-woman-girl-clothing-eye-2563491/">p1</a>, <a href="https://pixabay.com/photos/dog-puppy-sharpei-petit-animal-1865712/">p2</a>, <a href="https://pixabay.com/photos/night-camera-photographer-photo-1927265/">p3</a>, <a href="https://pixabay.com/photos/road-forest-season-autumn-fall-1072823/">p4</a>, <a href="https://pixabay.com/photos/neuschwanstein-castle-bavaria-701732/">p5</a>, <a href="https://pixabay.com/photos/hohenschwangau-alps-alpsee-bavaria-532864/">p6</a>
