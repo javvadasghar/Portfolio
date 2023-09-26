@@ -3,7 +3,7 @@ import { Icon } from "@iconify/react";
 import angularIcon from "@iconify/icons-logos/javascript";
 import reactIcon from "@iconify/icons-logos/react";
 import vueIcon from "@iconify/icons-logos/nextjs";
-import profilepic from "../../src/myProfile.jpg";
+import profilepic from "../../src/j7.jpg";
 
 class About extends Component {
   render() {

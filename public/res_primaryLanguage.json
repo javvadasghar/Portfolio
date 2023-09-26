@@ -11,12 +11,12 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Kuwait Finance House",
+        "startDate": "2022",
+        "description": "Kuwait Finance House (KFH) is considered a pioneer in the Islamic banking phenomenon. I worked on the UI and its functionalities in React and TypeScript. Version Control using Git and Unit testing.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/KFH.png",
+          "images/Kw.jpeg"
         ],
         "url": "",
         "technologies": [
@@ -29,21 +29,33 @@
             "name": "TypeScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-git-plain",
+            "name": "Git"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "D-Tag (Hungary)",
+        "startDate": "2021",
+        "description": "D-TAG solutions provide insights in the clearest, most efficient way so you can use this knowledge to your advantage. I build web portal from stratch using HTML,CSS,Boostrap and Material UI. From making the UI to the end functionality in Reactjs, I worked on this project from Stratch. ",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/d-tag.jpg",
+          "images/d-tag.jpg"
         ],
-        "url": "https://github.com",
+        "url": "",
         "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Boostrap"
+          },
           {
             "class": "devicon-react-original",
             "name": "React"
@@ -55,26 +67,34 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Artilytics",
+        "startDate": "2020",
+        "description": "At Artilytics we transform complex data into actionable insights to help brands take their customer experience to the next level with our one-of-a-kind customer data platform- arti. Arti helps organizations to predict their trends and take a proactive approach. Our artificial intelligence and machine learning capabilities enable you to get the right insights at the right time to quickly and easily boost your performance and grow your revenue.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
+          "images/arti.jpeg",
           "images/portfolio/adventure/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "",
         "technologies": [
           {
             "class": "devicon-react-original",
-            "name": "Angular"
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Boostrap"
           }
         ]
       }
@@ -82,7 +102,7 @@
     "experience": [
       {
         "company": "Blutech Consulting Pvt. Ltd.",
-        "title": "Associate Software Engineer",
+        "title": "Software Engineer",
         "years": "10.2021 - 08-2023",
         "mainTech": [
           "React JS"
