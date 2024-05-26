@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Jawad Asghar Portfolio",
-      "titles": [ "Front-end Developer", "Software Engineer", "UI Developer" ],
+      "titles": [ "Front-end Developer", "Back-end Developer", "Software Engineer" ],
       "social": [
         {
           "name": "github",
@@ -61,6 +61,11 @@
         {
           "name": "MySql",
           "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "Node",
+          "class": "devicon-nodejs-plain",
           "level": "60"
         },
         {
