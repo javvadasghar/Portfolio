@@ -1,0 +1,160 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Jawad Asghar. Highly skilled Full Stack Software Developer with 3 years of experience in developing and implementing Web Software’s that have resulted in significant increases in page load speed and user engagement. Proficient in collaborating with back-end teams to integrate user-facing elements with server-side logic, implementing automated testing platforms, and optimizing components for maximum performance.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Kuwait Finance House",
+        "startDate": "2022",
+        "description": "Kuwait Finance House (KFH) is considered a pioneer in the Islamic banking phenomenon. I worked on the UI and its functionalities in React and TypeScript. Version Control using Git and Unit testing.",
+        "images": [
+          "images/KFH.png",
+          "images/Kw.jpeg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React Js"
+          },
+          {
+            "class": "devicon-next-original",
+            "name": "Next Js"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node Js"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          }
+        ]
+      },
+      {
+        "title": "D-Tag (Hungary)",
+        "startDate": "2021",
+        "description": "D-TAG solutions provide insights in the clearest, most efficient way so you can use this knowledge to your advantage. I build web portal from stratch using HTML,CSS,Boostrap and Material UI. From making the UI to the end functionality in Reactjs, I worked on this project from Stratch. ",
+        "images": [
+          "images/d-tag.jpg",
+          "images/d-tag.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Boostrap"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Artilytics",
+        "startDate": "2020",
+        "description": "At Artilytics we transform complex data into actionable insights to help brands take their customer experience to the next level with our one-of-a-kind customer data platform- arti. Arti helps organizations to predict their trends and take a proactive approach. Our artificial intelligence and machine learning capabilities enable you to get the right insights at the right time to quickly and easily boost your performance and grow your revenue.",
+        "images": [
+          "images/arti.jpeg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Boostrap"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Blutech Consulting Pvt. Ltd.",
+        "title": "Senior Software Engineer",
+        "years": "10.2021 - 08-2023",
+        "mainTech": [
+          "React JS", "Node JS", "MongoDb"
+        ],
+        "technologies": [
+          "REST API",
+          "Redux",
+          "Next Js",
+          "SQL",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "React Material"
+        ]
+      },
+      {
+        "company": "Blutech Consulting Pvt. Ltd.",
+        "title": "Software Engineer",
+        "years": "06.2020 - 09.2021",
+        "mainTech": [
+          "React JS", "Next JS", "Node Js", "MySQL"
+        ],
+        "technologies": [
+          "HTML5",
+          "CSS3",
+          "Bootstrap",
+          "AJAX",
+          "JavaScript",
+          "MYSQL"
+        ]
+      },
+      {
+        "company": "Bee Social Pvt. Ltd.",
+        "title": "JavaScript Developer",
+        "years": "03.2020 - 05.2021",
+        "mainTech": [
+          "JavaScript"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "JavaScript"
+        ]
+      }
+    ]
+  }

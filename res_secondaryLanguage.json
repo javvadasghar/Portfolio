@@ -1,0 +1,160 @@
+{
+    "basic_info": {
+      "description_header": "Hallo",
+      "description": "👋 Ich bin Jawad Asghar. Hochqualifizierter Full-Stack-Softwareentwickler mit 3 Jahren Erfahrung in der Entwicklung und Implementierung von Websoftware, die zu einer deutlichen Steigerung der Seitenladegeschwindigkeit und des Benutzerengagements geführt hat. Kompetent in der Zusammenarbeit mit Back-End-Teams, um benutzerorientierte Elemente mit serverseitiger Logik zu integrieren, automatisierte Testplattformen zu implementieren und Komponenten für maximale Leistung zu optimieren.",
+      "section_name": {
+        "about": "Über mich",
+        "projects": "Projekte",
+        "skills": "Fähigkeiten",
+        "experience": "Erfahrung"
+      }
+    },
+    "projects": [
+      {
+        "title": "Kuwait Finance House",
+        "startDate": "2022",
+        "description": "Das Kuwait Finance House (KFH) gilt als Pionier des islamischen Bankenphänomens. Ich habe an der Benutzeroberfläche und ihren Funktionalitäten in React und TypeScript gearbeitet. Versionskontrolle mit Git und Unit-Tests.",
+        "images": [
+          "images/KFH.png",
+          "images/Kw.jpeg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React Js"
+          },
+          {
+            "class": "devicon-next-original",
+            "name": "Next Js"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node Js"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          }
+        ]
+      },
+      {
+        "title": "D-Tag (Ungarn)",
+        "startDate": "2021",
+        "description": "D-TAG-Lösungen liefern Erkenntnisse auf klarste und effizienteste Weise, sodass Sie dieses Wissen zu Ihrem Vorteil nutzen können. Ich erstelle ein Webportal aus Stratch mit HTML, CSS, Boostrap und Material UI. Von der Erstellung der Benutzeroberfläche bis zur Endfunktionalität in Reactjs habe ich von Stratch aus an diesem Projekt gearbeitet. ",
+        "images": [
+          "images/d-tag.jpg",
+          "images/d-tag.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Boostrap"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Artilytics",
+        "startDate": "2020",
+        "description": "Bei Artilytics wandeln wir komplexe Daten in umsetzbare Erkenntnisse um, um Marken dabei zu helfen, ihr Kundenerlebnis mit unserer einzigartigen Kundendatenplattform arti auf die nächste Stufe zu heben. Arti hilft Unternehmen, ihre Trends vorherzusagen und einen proaktiven Ansatz zu verfolgen. Unsere Fähigkeiten in den Bereichen künstliche Intelligenz und maschinelles Lernen ermöglichen es Ihnen, zur richtigen Zeit die richtigen Erkenntnisse zu gewinnen, um schnell und einfach Ihre Leistung zu steigern und Ihren Umsatz zu steigern.",
+        "images": [
+          "images/arti.jpeg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Boostrap"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Blutech Consulting Pvt. Ltd.",
+        "title": "Leitender Software Ingenieur",
+        "years": "10.2021 - 08-2023",
+        "mainTech": [
+          "React JS", "Node JS", "MongoDb"
+        ],
+        "technologies": [
+          "REST API",
+          "Redux",
+          "Next Js",
+          "SQL",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "React Material"
+        ]
+      },
+      {
+        "company": "Blutech Consulting Pvt. Ltd.",
+         "title": "Softwareentwickler",
+        "years": "06.2020 - 09.2021",
+        "mainTech": [
+          "React JS", "Next JS", "Node Js", "MySQL"
+        ],
+        "technologies": [
+          "HTML5",
+          "CSS3",
+          "Bootstrap",
+          "AJAX",
+          "JavaScript",
+          "MYSQL"
+        ]
+      },
+      {
+        "company": "Bee Social Pvt. Ltd.",
+        "title": "JavaScript Entwickler",
+        "years": "03.2020 - 05.2021",
+        "mainTech": [
+          "JavaScript"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "JavaScript"
+        ]
+      }
+    ]
+  }
