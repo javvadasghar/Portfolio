@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Jawad Asghar. With over three years of experience in front-end development, a solid foundation in JavaScript and React.js, and a proven track record of creating visually appealing and user-friendly web applications. I am proficient in building responsive and interactive user interfaces using modern web technologies. My experience in collaborating with cross-functional teams, including designers and backend developers, has allowed me to deliver seamless end-to-end solutions that meet both technical and business requirements.",
+      "description": "👋 I'm Jawad Asghar. Highly skilled Full Stack Software Developer with 3 years of experience in developing and implementing Web Software’s that have resulted in significant increases in page load speed and user engagement. Proficient in collaborating with back-end teams to integrate user-facing elements with server-side logic, implementing automated testing platforms, and optimizing components for maximum performance.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -22,11 +22,19 @@
         "technologies": [
           {
             "class": "devicon-react-original",
-            "name": "React"
+            "name": "React Js"
+          },
+          {
+            "class": "devicon-next-original",
+            "name": "Next Js"
           },
           {
             "class": "devicon-typescript-plain",
             "name": "TypeScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node Js"
           },
           {
             "class": "devicon-git-plain",
@@ -102,15 +110,16 @@
     "experience": [
       {
         "company": "Blutech Consulting Pvt. Ltd.",
-        "title": "Lead Software Engineer",
+        "title": "Senior Software Engineer",
         "years": "10.2021 - 08-2023",
         "mainTech": [
-          "React JS"
+          "React JS", "Node JS", "MongoDb"
         ],
         "technologies": [
           "REST API",
           "Redux",
-          "RxJS",
+          "Next Js",
+          "SQL",
           "JavaScript",
           "Bootstrap",
           "MDBootstrap",
@@ -122,12 +131,13 @@
         "title": "Software Engineer",
         "years": "06.2020 - 09.2021",
         "mainTech": [
-          "React JS"
+          "React JS", "Next JS", "Node Js", "MySQL"
         ],
         "technologies": [
           "HTML5",
           "CSS3",
           "Bootstrap",
+          "AJAX",
           "JavaScript",
           "MYSQL"
         ]
